@@ -6,7 +6,20 @@
 4. 변수별 분포, 군집분석, 머신러닝(예측) 
 ```
 
-## 화면
+## Requirements
+```
+python 3.9.13
+plotly 5.22.0
+dash 2.17.0
+scikit-learn 1.5.0
+pandas 2.2.2
+numpy 1.26.4
+matplotlib 3.9.0
+xgboost 2.0.3
+lightgbm 4.3.0
+```
+
+## 화면 및 주요기능
 ```
 1. 변수별 분포 및 상관관계
   - 변수별 분포를 범주형 변수별로 나누어 분포 파악가능
